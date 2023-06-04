@@ -15,7 +15,7 @@ export const TransactionHistoryTable = styled.table`
   }
 
   & th {
-    background-color: lightgray;
+    background-color: blue;
     font-weight: bold;
   }
 

@@ -6,7 +6,7 @@ export const StatisticsSection = styled.section`
   margin-right: auto;
   width: 300px;
   padding: 60px 60px;
-  background-color: blanchedalmond;
+  background-color: #f6f8fa;
   border-radius: 10px;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
 `;
@@ -35,7 +35,7 @@ export const StatList = styled.ul`
 
 export const StatItem = styled.li`
   padding: 10px 5px;
-  width: 50px;
+  width: 65px;
   display: flex;
   flex-direction: column;
   align-items: center;
